@@ -1,4 +1,4 @@
-Welcome to EUREKA's Linux CTF!
+# Welcome to EUREKA's Linux CTF!
 
 The competition has 9 levels. Each level is in the form of a password-protected zipfile. To unlock it, you must find the flag at each level and enter it as the password.
 To proceed, you will have to traverse the levels using various Linux commands, and find the flag at each level. Each level also has a README file, with some info/hints about the level.
