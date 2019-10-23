@@ -11,7 +11,7 @@ To get you started, we've compiled a list of basic commands that you'll need to 
 5) eog <image_name> - Open the given image in the default image viewing application.
 6) unzip <folder_name> - Unzips the given zip file, after accepting the necessary password.
 
-These commands won't be enough to see you through the entire game though! Along the way, you'll need more complicated commands. However, with the help of the hints given in the README files and some Googling, you should be fne.
+These commands won't be enough to see you through the entire game though! Along the way, you'll need more complicated commands. However, with the help of the hints given in the README files and some Googling, you should be fine.
 
 To begin with, Level 1 has been kept open. Start there.
 
